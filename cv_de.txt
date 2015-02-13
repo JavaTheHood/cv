@@ -1,0 +1,106 @@
+Name:                Roman Christian Podolski
+Adresse:             Arnulfstraße 138, 80634 München, Deutschland
+E-Mail:              roman.podolski89@gmail.com
+Telefon:             (+49) 178 81 33 292
+Geburtstag/-ort:     07.12.1989 / Deutschland 
+Familienstand:       Ledig 
+Staatsangehörigkeit: Deutsch
+ 
+Studium:
+10/2010 - vsl. 04/2015
+Hochschule München
+Geotelematik und Navigation, Bachelor of Engineering
+Bachelorarbeit:        "Serverseitiges Post-Processing von GNSS Rohdaten"
+Note:                  2.0
+Betreuender Professor: Prof. Dr.-Ing. Lars Wischhof (lars.wischhof@hm.edu)
+Externe Stelle:        Audi Electronics Venture GmbH
+Implemetation serverseitiger Bayes-Filteralgorithmen zur Sensordatenfusion, von GNSS und IMU Rohdaten als Funktionsbibliothek für das relationale Datenbankssystem PostgreSQL.
+ 
+Schulausbildung:
+08/2007 - 08/2009
+Fachhochschulreife
+Kath. Romano-Guardini-Fachoberschule für Sozialwesen, München, Abschlussnote: 2.7 
+ 
+08/2001 - 08/2007
+Realschulabschluss
+Städt. Fridjof-Nansen-Realschule, München, Abschlussnote: 2.0
+ 
+08/1999 - 08/2001
+Städt. Maria-Theresia-Gymnasium, München
+ 
+Berufserfahrung / Praktika:
+Aktuell seit 06/2014
+und
+08/2012 - 10/2013
+Werkstudent und Interdisziplinäres Praxissemester - Softwareengineer in Test
+Uniscon GmbH, 80992, München
+Entwurf und Umsetzung von Strategien zur Automatisierung von Softwaretests unterschiedlicher Clientapplicationen. Management eines Entwicklerteams in Indien.
+ 
+08/2013 - 04/2014
+Bachelorant
+Audi Electronics Venture GmbH, 85080 Gaimersheim
+Implemetation serverseitiger Bayes-Filteralgorithmen zur Sensordatenfusion, von GNSS und IMU Rohdaten als Funktionsbibliothek für das relationale Datenbankssystem PostgreSQL.
+ 
+06/2013
+Tutor Satellitenpositionierung
+Hochschule München, 80335, München
+Betreuung und Evaluation von Studienarbeiten mit MATLAB.
+ 
+09/2013
+und
+08/2013
+Tutor Softwareentwicklung
+Hochschule München, 80335, München
+Konzeption, Durchführung und Betreuung eines Vorbereitungskurses für Studienanfänger, Thema: "Softwareentwicklung in Java".
+ 
+01/2012 - 01/2013
+Werkstudent
+Department für Physik Ludwig Maximilians Universität, 80539, München
+Enwicklung einer Webanwendung zur Personalverwaltung.
+ 
+07/2010 - 10/2010
+Praktikant
+Werkstatt Ludwig Maximilians Universität, 80539, München
+Handwerklich orientiertes Praktikum. Verrichtung von Metallarbeiten, wie Drehen, Löten, Schweißen, Feilen.
+ 
+09/2009 - 08/2010
+Freiwilliges Ökologisches Jahr
+Jugendorganisation Bund Naturschutz, 80637, München
+Organisation und Betreuung von Projekten zu den Themengebieten Nachhaltigkeit und Ökologie.
+ 
+Besondere Kenntnisse und Interessen
+Sprachkenntnisse: 
+Englisch - Verhandlungssicher
+Deutsch - Muttersprache
+Spanisch - Grundkenntnisse
+ 
+Programmiersprachen und Datenbanken:
+C/C++      - 2,5 Jahre
+Java       - 3,5 Jahre
+MATLAB     - 3 Jahre
+Ruby       - 1 Jahr
+MySQL      - 2,5 Jahre
+PostgreSQL - 1 Jahr
+ 
+Algorithmen und Verfahren:
+Kalman Filter
+Koordinaten Transformationen
+Kamera Kalibrierung und Modellierung
+Fourier Transformationen
+Taylorreihen Entwicklungen
+ 
+Sensoren zur Anwendungsprogrammierung:
+GPS, IMU, Laserscanner, UWB
+ 
+Weitere Kentnisse:
+LaTeX, XeLaTeX & TikZ
+Git, Subversion
+SCRUM
+Vim
+eXtreme Programming
+ 
+Interessen:
+Open Source (https://github.com/JavaTheHood), Web Technologien, Maschinelles Lernen
+Boxen, Fitness, Distanz Lauf, Wandern
+ 
+PDF: https://www.dropbox.com/s/0669bw8g3w32t58/cv_de.pdf?dl=0
