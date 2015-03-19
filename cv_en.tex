@@ -33,6 +33,8 @@
 \usepackage{xunicode,xltxtra,url,parskip} % Formatting packages
  
 \usepackage[usenames,dvipsnames]{xcolor} % Required for specifying custom colors
+
+\usepackage{fontawesome} % To use all the cool logos
  
 \usepackage[big]{layaureo} % Margin formatting of the A4 page, an alternative to layaureo can be \usepackage{fullpage}
 % To reduce the height of the top margin uncomment: \addtolength{\voffset}{-1.3cm}
@@ -54,13 +56,13 @@
  
 \par{\centering{\Huge Roman C. \textsc{Podolski}}\bigskip\par} % Your name
  
-\section{Persönliche Daten}
+\section{Personal Data}
  
 \begin{tabular}{l@{: }l}
 %\textsc{Geburtsort | Geburtsdatum} & München, Deutschland  | 07 Dezember 1989 \\
-\textsc{Geburtsdatum} & 07. Dezember 1989 \\
-\textsc{Addresse}     & Arnulfstraße 138, 80634 München, Deutschland \\
-\textsc{Telefon}      & (+49) 178 81 33 292\\
+\textsc{Date of birth} & December/07/1989 \\
+\textsc{Address}     & Arnulfstraße 138, 80634 Munich, Germany \\
+\textsc{Phone}      & (+49) 178 81 33 292\\
 \textsc{E-Mail}       & \href{mailto:roman.podolski89@gmail.com}{roman.podolski89@gmail.com}
 \end{tabular}
  
@@ -68,34 +70,37 @@
 %	EDUCATION
 %----------------------------------------------------------------------------------------
  
-\section{Studium und Schulbildung}
+\section{Edjucation}
  
 \begin{tabular}{r|l@{: }p{11cm}}
 %\begin{tabular}{rp{11cm}}
-\emph{Aktuell} & \multicolumn{2}{p{11cm}}{Bachelor of Engeneering in \textsc{Geotelematik \& Navigation}}\\
-\textsc{10/2010 - 04/2015} & \multicolumn{2}{p{11cm}}{\textbf{Hochschule München}, München} \\
-                           & \small Bachelorarbeit & \small ``Serverseitiges Post Processing von GNSS Rohdaten'' \\
+\emph{Current} & \multicolumn{2}{p{11cm}}{Master of Science in \textsc{Robotic, Cognition And Intelligence}}\\
+\textsc{04/2015 - 04/2017} & \multicolumn{2}{p{11cm}}{\textbf{Technische Universitat München, Munich}} \\
+\multicolumn{3}{c}{}\\
+& \multicolumn{2}{p{11cm}}{Bachelor of Engeneering in \textsc{Geotelematik \& Navigation}}\\
+\textsc{10/2010 - 04/2015} & \multicolumn{2}{p{11cm}}{\textbf{Hochschule München, Munich}} \\
+                           & \small Bachelorthesis & \small ``Serverside Post-Processing of GNSS-Rawdata'' \\
                            & \small Note           & \small 2.0\\
-			   & \small Betreuer       & \small \href{mailto:lars.wischhof@hm.edu}{Prof. Dr. -Ing. Lars Wischhof}\\
+			   & \small Supervisior       & \small \href{mailto:lars.wischhof@hm.edu}{Prof. Dr. -Ing. Lars Wischhof}\\
                            & \small Externe Stelle & \small \href{http://www.audi-electronics-venture.de}{Audi Electronics Venture GmbH} \\
-                           & \multicolumn{2}{p{11cm}}{\small Implementation serverseitiger Bayes-Filteralgorithmen zur Sensordatenfusion, von GNSS und IMU Rohdaten als Funktionsbibliothek für das Realtionale Datenbanksystem PostgreSQL.}\\
+                           & \multicolumn{2}{p{11cm}}{\small Implementation of serverside bayes-filteralgorithms for fusiong sensordata of GNSS and IMU Rawdata as API for the relational databasesystem PostgreSQL.}\\
 \multicolumn{3}{c}{}\\
  
 %------------------------------------------------
  
-\textsc{08/2007 - 08/2009} & \multicolumn{2}{p{11cm}}{\textbf{Kath. Romano-Guardini-Fachoberschule für Sozialwesen}, München} \\
+\textsc{08/2007 - 08/2009} & \multicolumn{2}{p{11cm}}{\textbf{Kath. Romano-Guardini-Fachoberschule für Sozialwesen}, Munich} \\
                            & \multicolumn{2}{p{11cm}}{\small Fachhochschulreife: 2.7}                                         \\
 \multicolumn{3}{c}{}                                                                                \\
  
 %------------------------------------------------
  
-\textsc{08/2001 - 08/2007} & \multicolumn{2}{p{11cm}}{\textbf{Städt. Fridjof-Nansen-Realschule}, München} \\
+\textsc{08/2001 - 08/2007} & \multicolumn{2}{p{11cm}}{\textbf{Städt. Fridjof-Nansen-Realschule}, Munich} \\
                            & \multicolumn{2}{p{11cm}}{\small Realschulabschluss: 2.0} \\
 \multicolumn{3}{c}{}\\
  
 %------------------------------------------------
  
-\textsc{08/1999 - 08/2001} & \multicolumn{2}{p{11cm}}{\textbf{Städt. Maria-Therisia-Gymnasium}, München} \\
+\textsc{08/1999 - 08/2001} & \multicolumn{2}{p{11cm}}{\textbf{Städt. Maria-Therisia-Gymnasium}, Munich} \\
 \multicolumn{3}{c}{}\\
 \end{tabular}
  
@@ -103,18 +108,18 @@
 %	COMPUTER SKILLS 
 %----------------------------------------------------------------------------------------
  
-\section{Fähigkeiten und Kenntnisse}
+\section{Skills and Knowledge}
  
 \begin{tabular}{ll@{  }ll}
-\multicolumn{3}{l}{\textbf{Programmiersprachen und Datenbanken}}   & \textbf{Algorithmen und Verfahren}\\
-C/C++        & 2,5 & Jahre                                         & Kalman Filter \\
-Java         & 3,5 & Jahre                                         & Koordinaten Transformationen \\ 
-MATLAB       & 3   & Jahre                                         & Kamera Kalibrierung und Modellierung \\ 
-Ruby         & 1   & Jahr                                          & Fourier Transformationen  \\ 
-MySQL        & 2,5 & Jahre                                         & Taylorreihen Entwicklungen \\ 
-PostgreSQL   & 1   & Jahr                                          & \\ 
+\multicolumn{3}{l}{\textbf{Programming-languages and Databases}}   & \textbf{Algorithms }\\
+C/C++        & 2,5 & Years                                         & Kalman Filter \\
+Java         & 3,5 & Years                                         & Coordinate Transoftmation \\ 
+MATLAB       & 3   & Years                                         & Kamera Kalibrierung und Modellierung \\ 
+Ruby         & 1   & Year                                          & Fourier Transformationen  \\ 
+MySQL        & 2,5 & Years                                         & Taylorreihen Entwicklungen \\ 
+PostgreSQL   & 1   & Year                                          & \\ 
              &     &                                               & \\ 
-\multicolumn{3}{l}{\textbf{Sensoren zur Anwendungsprogrammierung}} & \textbf{Weitere Kenntisse}\\
+\multicolumn{3}{l}{\textbf{Sensors}} & \textbf{Further Knowledge }\\
 GPS          &     &                                               & LaTeX, XeLaTeX \& Ti\textit{k}Z\\ 
 IMU          &     &                                               & Git \\ 
 Laserscanner &     &                                               & Subversion \\ 
@@ -127,14 +132,14 @@ UWB          &     &                                               & SCRUM \\
 %	WORK EXPERIENCE 
 %----------------------------------------------------------------------------------------
  
-\section{Tätigkeiten}
+\section{Work Expirence}
  
 \begin{tabular}{r|p{11cm}}
 %\begin{tabular}{rp{11cm}}
  
-\emph{Aktuell}             & Werkstudent \\
-\textsc{06/2014}           & Interdisziplinäres Praxissemester \textbf{Uniscon GmbH}, München\\
-\emph{und}		   & \emph{Softwareengineer in Test}\\
+\emph{Current}             & Student \\
+\textsc{06/2014}           & Internship \textbf{Uniscon GmbH}, München\\
+\emph{and}		   & \emph{Software Developer}\\
 \textsc{08/2012 - 10/2013} & \small{Entwurf und Umsetzung von Strategien zur Automatisierung von Software-Tests unterschiedlicher Client-Applikationen. Management eines Entwickler-Teams in Indien.} \\
 \multicolumn{2}{c}{} \\
  
@@ -210,7 +215,7 @@ UWB          &     &                                               & SCRUM \\
  
 \section{Interessen}
  
-\href{https://github.com/JavaTheHood}{Open-Source (\includegraphics[height=10pt]{octoface})}, Web Technologien, Maschinelles Lernen, \\
+\href{https://github.com/JavaTheHood}{Open-Source (\faGithub https://github.com/JavaTheHood/)}, Web Technologien, Maschinelles Lernen, \\
 Boxen, Wandern, Fitness
  
 %----------------------------------------------------------------------------------------
